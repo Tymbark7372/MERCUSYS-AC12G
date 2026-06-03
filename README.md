@@ -82,7 +82,6 @@ Any compromised LAN device (IoT malware, browser exploit) can expose the router'
 ## Notes
 
 - Mercusys acknowledged the report, confirmed internal review by their R&D and security teams, and is inspecting other devices in their product line. The AC12G is EOL and no fix will be released.
-- PoC exploit code is not included at this time.
 
 ## Researcher
 
